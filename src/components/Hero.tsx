@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto">
         <p className="text-gray-600 mb-4">Tech Entrepreneur & Cloud Architect</p>
         <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold mb-8 leading-tight">
-          Experience<br />
+          Experienced<br />
           Full Stack Developer
         </h1>
         <div className="flex flex-col md:flex-row md:items-center gap-8">
